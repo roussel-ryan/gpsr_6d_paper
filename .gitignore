@@ -1,0 +1,13 @@
+*.pt
+*.pth
+#*.dset
+**/__pycache__/
+.idea/
+phase_space_reconstruction.egg-info/
+**/.ipynb_checkpoints/
+*.data
+*.h5
+*.dat
+*.sdds
+*.opal
+*.stat
